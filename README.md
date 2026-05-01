@@ -32,10 +32,3 @@ En `data/sample/` se incluye un subconjunto pequeño para poder ejecutar pruebas
 - **Matrix Factorization (PMF)**
 
 - **Bernoulli Matrix Factorization** (implícito)
-
-# Data
-
-Este proyecto usa el dataset de Food.com (Kaggle):
-https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
-
-Por tamaño/licencia, los ficheros originales NO se incluyen en el repositorio.
