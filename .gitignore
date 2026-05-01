@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb~ 
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Data (NO subir datasets de Kaggle) ---
+data/raw/
+data/processed/
+data/interim/
+*.csv
+*.parquet
+*.pkl
+
+# excepción: si quieres subir CSV pequeñitos de ejemplo
+!data/sample/
+!data/sample/*.csv
+
+# --- Results / artifacts ---
+results/
+reports/figures/
+*.png
+*.pdf
+*.html
+
+# --- Logs ---
+*.log
