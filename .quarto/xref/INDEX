@@ -1,0 +1,14 @@
+{
+  "index.qmd": {
+    "index.html": "e4e72904"
+  },
+  "slides.qmd": {
+    "slides.html": "a07387a5"
+  },
+  "notebooks/01_knn.ipynb": {
+    "01_knn.html": "fb84fa62"
+  },
+  "notebooks/05_cbf.ipynb": {
+    "05_cbf.html": "e8405fbf"
+  }
+}

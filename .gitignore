@@ -11,7 +11,7 @@ venv/
 
 # --- Jupyter ---
 .ipynb_checkpoints/
-*.ipynb~ 
+*.ipynb~
 
 # --- OS ---
 .DS_Store
